@@ -56,6 +56,7 @@ discardmail.com
 discardmail.de
 disposableaddress.com
 dispostable.com
+divismail.ru
 dodgeit.com
 dodgit.com
 donemail.ru
@@ -77,9 +78,12 @@ emailx.at.hm
 emailxfer.com
 emz.net
 explodemail.com
+extremail.ru
 fakeinbox.com
 fakeinformation.com
 fantasymail.de
+fificorp.com
+fificorp.net
 filzmail.com
 frapmail.com
 fuckingduh.com
@@ -120,9 +124,13 @@ kasmail.com
 kaspop.com
 killmail.com
 killmail.net
+kismail.ru
 klassmaster.com
 klzlk.com
+koszmail.pl
 kurzepost.de
+lackmail.ru
+leeching.net
 lhsdv.com
 lifebyfood.com
 link2mail.net
@@ -137,6 +145,7 @@ mailbidon.com
 mailblocks.com
 mailbucket.org
 mailcatch.com
+maildrop.cc
 mailexpire.com
 mailfreeonline.com
 mailin8r.com
@@ -163,11 +172,11 @@ meinspamschutz.de
 meltmail.com
 messagebeamer.de
 mintemail.com
-mohmal.com
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
 mt2009.com
+mvrht.com
 mycleaninbox.net
 mymail-in.net
 mypartyclip.de
@@ -181,6 +190,7 @@ nervtmich.net
 netmails.com
 netmails.net
 neverbox.com
+niepodam.pl
 no-spam.ws
 nogmailspam.info
 nomail.xl.cx
@@ -233,6 +243,7 @@ sneakemail.com
 sofimail.com
 sogetthis.com
 soodonims.com
+spam4.me
 spambob.net
 spambog.com
 spambog.de
